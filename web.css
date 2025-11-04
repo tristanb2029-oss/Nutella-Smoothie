@@ -1,0 +1,40 @@
+
+h1{
+  text-align: center;
+  color: black;
+  font-size: 50px;
+}
+
+h2,h3 {
+  text-align: center;
+  color: black;
+  font-size: 40px;
+}
+ul,ol{
+  text-align: left;
+  padding-left: 20%;
+  font-family: 'Times New Roman', serif;
+  font-size: 30px; 
+}
+h1,h2,{
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-size: 30px;
+}
+
+body{
+  background: chocolate;
+  font-family: Garamond, serif;
+}
+.layout {
+  width: 100%;
+
+  display: flex;
+  gap: 16px;
+
+  justify-content: center;
+  align-items: center;
+}
+
